@@ -2,6 +2,10 @@
 
 An intelligent traffic management system that detects accidents in real-time and automatically optimizes traffic signals to reduce congestion and improve emergency response.
 
+# Watch Demo Video:
+
+https://www.youtube.com/watch?v=X0kgA0yyBOk
+
 ## What It Does
 
 - **Accident Detection**: Uses YOLOv8 models to identify accidents, damaged vehicles, and emergency situations from camera feeds

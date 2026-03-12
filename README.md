@@ -128,7 +128,7 @@ We are actively working on improving the traffic management component of the sys
 - Check camera URL config in `main.py`
 - Ensure camera is accessible from your network
 
-## Reference Images:
+## Screenshot:
 <img width="1905" height="960" alt="image" src="https://github.com/user-attachments/assets/6293eb66-0019-4bca-a38f-5aee705ac456" />
 
 

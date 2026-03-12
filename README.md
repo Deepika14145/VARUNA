@@ -2,10 +2,6 @@
 
 An intelligent traffic management system that detects accidents in real-time and automatically optimizes traffic signals to reduce congestion and improve emergency response.
 
-# Watch Demo Video:
-
-https://www.youtube.com/watch?v=X0kgA0yyBOk
-
 ## What It Does
 
 - **Accident Detection**: Uses YOLOv8 models to identify accidents, damaged vehicles, and emergency situations from camera feeds
@@ -13,6 +9,10 @@ https://www.youtube.com/watch?v=X0kgA0yyBOk
 - **Multi-Junction Support**: Handles intersections from 2-way (T-junction) to 6-way complex junctions
 - **Real-Time Dashboard**: Visualizes traffic flow, accident locations, and signal optimization in the browser
 - **Emergency Response**: Prioritizes ambulance lanes and fire brigade routes automatically
+
+## Watch Demo Video:
+
+https://www.youtube.com/watch?v=X0kgA0yyBOk
 
 ## Key Features
 

@@ -102,6 +102,18 @@ Edit these values in `main.py`:
 - **5-way**: Star junction
 - **6-way**: Complex multi-lane intersection
 
+## 🚧 Work In Progress
+
+### Traffic Management Enhancement (YOLOv10 Integration)
+We are actively working on improving the traffic management component of the system. This includes:
+
+- **YOLOv10 Migration**: Transitioning from YOLOv8 to YOLOv10 for more accurate and efficient traffic flow analysis
+- **Advanced Vehicle Tracking**: Enhanced multi-object tracking for better vehicle count and movement prediction
+- **Congestion Pattern Recognition**: Machine learning models to predict and prevent traffic congestion before it occurs
+- **Lane-Level Traffic Optimization**: Fine-grained control of individual lanes to maximize throughput
+
+**Status**: Model integration and testing in progress. Expected to significantly improve traffic prediction accuracy and signal optimization response times.
+
 ## Troubleshooting
 
 **Backend won't start?**

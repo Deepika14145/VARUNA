@@ -141,4 +141,4 @@ We are actively working on improving the traffic management component of the sys
 
 ---
 
-Built for the Smart India Hackathon. Real-time processing with ML-based traffic optimization.
+Built for the Indian Innovates Hackathon. Real-time processing with ML-based traffic optimization.

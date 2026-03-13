@@ -1,4 +1,4 @@
-# VARUNA - AI Accident Detection & Smart Traffic Control
+# VARUNA - Dynamic AI Traffic Flow Optimizer & Emergency Grid
 
 An intelligent traffic management system that detects accidents in real-time and automatically optimizes traffic signals to reduce congestion and improve emergency response.
 
